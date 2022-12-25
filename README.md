@@ -5,6 +5,6 @@ I'm a student at Saddleback Community College and I am working towards becoming 
 <h2>
   👨‍💻 I am currently learning
 </h2>
-- C++
-- Python
-- HTML/CSS
+- C++ <br>
+- Python <br>
+- HTML/CSS <br>
