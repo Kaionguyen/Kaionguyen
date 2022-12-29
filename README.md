@@ -3,7 +3,7 @@
 </h1>
 I'm a student at Saddleback Community College and I am working towards becoming a full stack developer.
 <h2>
-  👨‍💻 I am currently learning
+  👨‍💻 Current technologies
 </h2>
 - C++ <br>
 - Python <br>
