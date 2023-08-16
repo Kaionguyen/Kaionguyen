@@ -1,9 +1,13 @@
-<h1>
-  Hello👋, I’m Kyle Nguyen.
-</h1>
-<h2>
-  👨‍💻 Current technologies
-</h2>
-- C++ <br>
-- Python <br>
-- HTML/CSS <br>
+### Kyle Nguyen
+
+Full-stack legend in the making 💯...
+
+Some languages and frameworks I indulge in...
+* C++ <br>
+  * QT5
+* Python <br>
+  * Django
+* HTML/CSS <br>
+  * Bootstrap
+* TypeScript (I guess JavaScript too 🤕)
+
