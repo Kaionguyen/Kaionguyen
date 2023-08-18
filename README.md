@@ -9,5 +9,5 @@ Some languages and frameworks I indulge in...
   * Django
 * HTML/CSS <br>
   * Bootstrap
-* TypeScript (I guess JavaScript too 🤕)
+* TypeScript
 
