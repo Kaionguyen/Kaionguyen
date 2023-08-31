@@ -1,5 +1,5 @@
 ### Kyle Nguyen
-
+-----
 Full-stack legend in the making 💯...
 
 Some languages and frameworks I indulge in...
@@ -15,3 +15,8 @@ Tools...
 * Neovim (main)
 * VS Code
 * Windows, MacOs, Linux(Windows Subsystem For Linux 2)
+-----
+I am currently..
+* Learning TypeScript
+* Learning Python
+* LeetCoding
