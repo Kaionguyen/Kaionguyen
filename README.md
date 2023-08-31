@@ -11,3 +11,7 @@ Some languages and frameworks I indulge in...
   * Bootstrap
 * TypeScript
 
+Tools...
+* Neovim (main)
+* VS Code
+* Windows, MacOs, Linux(Windows Subsystem For Linux 2)
