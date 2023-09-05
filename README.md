@@ -1,6 +1,5 @@
 ### Kyle Nguyen
 -----
-Full-stack legend in the making 💯...
 
 Some languages and frameworks I indulge in...
 * C++ <br>
