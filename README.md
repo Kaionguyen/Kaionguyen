@@ -8,7 +8,10 @@ Some languages and frameworks I indulge in...
   * Django
 * HTML/CSS <br>
   * Bootstrap
-* TypeScript
+* TypeScript/ JavaScript
+  * ExpressJS
+  * ReactJS
+  * NodeJS
 
 Tools...
 * Neovim (main)
@@ -16,6 +19,5 @@ Tools...
 * Windows, MacOs, Linux(Windows Subsystem For Linux 2)
 -----
 I am currently..
-* Learning TypeScript
-* Learning Python
+* Learning TypeScript/ JavaScript (ExpressJS, ReactJS, NodeJS)
 * LeetCoding
