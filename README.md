@@ -12,6 +12,7 @@ Some languages and frameworks I indulge in...
   * ExpressJS
   * ReactJS
   * NodeJS
+  * NextJS
 
 Tools...
 * Neovim (main)
