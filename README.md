@@ -21,4 +21,4 @@ Tools...
 -----
 I am currently..
 * Learning TypeScript/ JavaScript (ExpressJS, ReactJS, NodeJS)
-* LeetCoding
+* Learning Rust
