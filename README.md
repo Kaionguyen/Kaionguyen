@@ -6,6 +6,7 @@ Some languages and frameworks I indulge in...
   * QT5
 * Python <br>
   * Django
+  * Flask
 * HTML/CSS <br>
   * Bootstrap
 * TypeScript/ JavaScript
@@ -19,6 +20,3 @@ Tools...
 * VS Code
 * Windows, MacOs, Linux(Windows Subsystem For Linux 2)
 -----
-I am currently..
-* Learning TypeScript/ JavaScript (ExpressJS, ReactJS, NodeJS)
-* Learning Rust
